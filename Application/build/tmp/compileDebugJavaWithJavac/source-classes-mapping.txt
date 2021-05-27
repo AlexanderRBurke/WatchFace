@@ -1,0 +1,8 @@
+com/example/android/wearable/watchface/OpenGLWatchFaceConfigActivity.java
+ com.example.android.wearable.watchface.OpenGLWatchFaceConfigActivity
+com/example/android/wearable/watchface/DigitalWatchFaceCompanionConfigActivity.java
+ com.example.android.wearable.watchface.DigitalWatchFaceCompanionConfigActivity
+ com.example.android.wearable.watchface.DigitalWatchFaceCompanionConfigActivity$1
+ com.example.android.wearable.watchface.DigitalWatchFaceCompanionConfigActivity$2
+com/example/android/wearable/watchface/BuildConfig.java
+ com.example.android.wearable.watchface.BuildConfig

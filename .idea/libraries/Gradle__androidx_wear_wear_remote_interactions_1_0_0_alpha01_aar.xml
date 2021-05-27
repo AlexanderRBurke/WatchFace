@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.wear:wear-remote-interactions:1.0.0-alpha01@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c60e87c129322db1f7d3da3cd93564d/jetified-wear-remote-interactions-1.0.0-alpha01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c60e87c129322db1f7d3da3cd93564d/jetified-wear-remote-interactions-1.0.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c60e87c129322db1f7d3da3cd93564d/jetified-wear-remote-interactions-1.0.0-alpha01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.wear/wear-remote-interactions/1.0.0-alpha01/b39dde5c64a9ee769f3954cabde18678bcb9c05a/wear-remote-interactions-1.0.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

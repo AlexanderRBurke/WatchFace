@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Alex\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alex\\AndroidStudioProjects\\WatchFace\\Wearable\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "16,18,17,20,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "650,778,704,916,847",
+                        "endColumns": "53,68,73,48,68",
+                        "endOffsets": "699,842,773,960,911"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,178,252,301",
+                        "endColumns": "53,68,73,48,68",
+                        "endOffsets": "104,173,247,296,365"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\9f7e7a548ad00e2e3c3268a409525997\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "370",
+                        "endLines": "11",
+                        "endColumns": "13",
+                        "endOffsets": "642"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alex\\AndroidStudioProjects\\WatchFace\\Wearable\\src\\main\\res\\values-hdpi\\styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "1188"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "647",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1148"
+                    }
+                }
+            ]
+        }
+    ]
+}
